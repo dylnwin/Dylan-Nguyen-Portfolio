@@ -1,2 +1,1 @@
-# dylnwin.github.io
-Dylan Nguyen's Portfolio
+# Dylan Nguyen's Portfolio
